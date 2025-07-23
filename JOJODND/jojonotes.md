@@ -6,13 +6,14 @@
     * Grants stands
   * Benitoite (stability)
     * Healing powers
+  * Cassiterite
+    * Climate and Weather
 * Pingu is the god where the stones came from
 * Yin and Yang
   * Dark and light forces in the world
 
-## Cranberry
-* Thinks he's a human
-* Looking for Kenny
+## Characters
+* [Cranberry](./Characters/Cranberry.md)
 
 ## Conan
 * Drunkard :thumbsup:

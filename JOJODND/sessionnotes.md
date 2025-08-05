@@ -12,7 +12,7 @@
    * Big stone walls, big keep in the center
    * Made it past the poor fucks and into the middle class
 
-## Session
+## Session 4
 1. Met with new wizard
 2. Told us to get Cassiterite which controls climate and weather
   * In "The Hanging Star" tavern
